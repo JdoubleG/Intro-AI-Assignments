@@ -5,8 +5,9 @@ All code written by James Garijo-Garde except where noted.
 
 The code in this repository are some of my submissions to assignments in the
 Introduction to Artificial Intelligence class I took at [Tufts University](https://www.tufts.edu/).
-More information about what each of these assignments entail is available in
-each of the subfolders of Do not use this code for academic purposes without citation.
+They are written in Python 3. More information about what each of these
+assignments entail is available in each of the subfolders of Do not use this
+code for academic purposes without citation.
 
 
 ### Assignment 1
