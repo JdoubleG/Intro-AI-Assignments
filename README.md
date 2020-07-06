@@ -10,13 +10,6 @@ assignments entail is available in each of the subfolders of the assignments.
 Do not use this code for academic purposes without citation.
 
 
-### Assignment 1
-This assignment centers around using an informed search algorithm to solve the
-pancake problem.
-
-Grade: 95/100
-
-
 ### Assignment 3
 This assignment is to solve the knapsack problem with a genetic algorithm.
 
